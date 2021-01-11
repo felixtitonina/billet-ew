@@ -18,7 +18,7 @@ Essas instruções permitirão que você obtenha uma cópia do projeto em opera�
 1. Faça o clone do repositório e no terminal navegue até a pasta;
 2. Instale as dependências do projeto com `npm install`;
 3. Rode o servidor de desenvolvimento com `npm run dev` ou `npm run devi` caso queira debugar.
-4. O *endpoint* do serviço estará disponível em http://localhost:3333/boleto/:boleto #### Method: GET .
+4. O *endpoint* do serviço estará disponível em http://localhost:3333/boleto/:boleto method: GET .
 
 Utilize o Postman para testar suas chamadas. [https://www.postman.com/downloads/](https://www.postman.com/downloads/).
 
