@@ -1,0 +1,15 @@
+{
+  "name": "billitewaly",
+  "version": "1.0.0",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/server.js",
+    "devi": "nodemon --inspect src/server.js"
+  },
+  "dependencies": {
+    "dotenv-flow": "^3.2.0",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
+}
